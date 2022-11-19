@@ -7,4 +7,5 @@ In your VM, install:
 
 ## Steps after Linux Installation 
 1. Run `catkin_make` and `source devel/setup.bash` inside the `eecs106a_final_proj` folder
-2. `cd` inside the `ardrone_tutorials` folder inside `eecs106a_final_proj/src/` and run `keyboard_controller.py`  
+2. Run `catkin_create_pkg drone_application std_msgs rospy roscpp` and then repeat Step 1 again 
+3. `cd` inside the `ardrone_tutorials` folder inside `eecs106a_final_proj/src/` and run `keyboard_controller.py` (you may need to repeat Step 1 if packages are not found)
