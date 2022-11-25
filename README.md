@@ -4,6 +4,7 @@
 In your VM, install:
 1. Linux Xenial: https://releases.ubuntu.com/16.04/
 2. ROS Kinetic: http://wiki.ros.org/kinetic/Installation/Ubuntu
+3. Ardrone Autonomy: http://wiki.ros.org/ardrone_autonomy
 
 ## Steps after Linux Installation 
 1. Run `catkin_make` and `source devel/setup.bash` inside the `eecs106a_final_proj` folder
