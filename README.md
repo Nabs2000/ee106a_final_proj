@@ -1,6 +1,6 @@
 # EECS 106A Final Project: Autonomous Flying w/Parrot 2.0 Drone
 ## Final Project Website
-Click [here] (https://sites.google.com/berkeley.edu/autonomous-drone/) to visit the final project website!
+Click [here](https://sites.google.com/berkeley.edu/autonomous-drone/) to visit the final project website!
 ## Linux Installation
 In your VM, install:
 1. Linux Xenial: https://releases.ubuntu.com/16.04/
